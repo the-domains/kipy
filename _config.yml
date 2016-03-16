@@ -1,0 +1,14 @@
+layout_spectrum: 0.06451613
+color:
+  saturation: 0.5866232
+  lightness: 0.6297344
+  brandStrength: 0.1433692
+  brandColors:
+    - '#424117'
+    - '#9B9077'
+    - '#A3B3D8'
+    - '#BED8FB'
+    - '#273A5C'
+  rhythmicContrast: 0.4391347
+typography_spectrum: 0.1530539
+name: Kipy
