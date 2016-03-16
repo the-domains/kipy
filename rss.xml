@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kipy]]></title>
         <description><![CDATA[Kipy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kipy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 10:02:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 10:03:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kipy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kipy paintings ]]></title>
+            <description><![CDATA[<article><h1>Kipy paintings </h1><p>Kipy paintings</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e88996ef178fca97e9be7592624756d477fa2fdb.png"></article>]]></description>
+            <link>https://thegrid.ai/kipy/kipy-paintings/index.html</link>
+            <guid isPermaLink="false">e62fcc20-5547-4a3c-a81b-8a8350c9aa3d</guid>
+            <pubDate>Wed, 16 Mar 2016 10:03:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kipy long sleeve]]></title>
             <description><![CDATA[<article><h1>Kipy long sleeve</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e70c3507476032c2f270fff224127ee17fcf082c.png"></article>]]></description>
-            <link>undefinedkipy-long-sleeve/index.html</link>
+            <link>https://thegrid.ai/kipy/kipy-long-sleeve/index.html</link>
             <guid isPermaLink="false">6a064f7c-5734-43c7-9b8c-a65f6f9cb113</guid>
             <pubDate>Wed, 16 Mar 2016 10:02:57 GMT</pubDate>
         </item>
